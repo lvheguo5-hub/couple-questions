@@ -1,0 +1,63 @@
+{
+  "slug": "virtual-dinner-date-game",
+  "title": "Virtual Dinner Date",
+  "category": "Long Distance",
+  "playOnline": "https://freecouplegames.com/games/virtual-dinner-date-game",
+  "count": 18,
+  "prompts": [
+    {
+      "prompt": "Give tonight's meal a restaurant name and introduce the menu in your most confident host voice."
+    },
+    {
+      "prompt": "Show one ingredient or item on your plate and tell the shortest story you associate with it."
+    },
+    {
+      "prompt": "Describe the first bite using three words that are not good, bad, tasty, or delicious."
+    },
+    {
+      "prompt": "Choose which part of your partner's meal you would sample first if you could reach across the table."
+    },
+    {
+      "prompt": "Share a childhood meal rule you followed, questioned, or quietly ignored."
+    },
+    {
+      "prompt": "Invent a playful award for something on each plate, such as best color, boldest texture, or most comforting smell."
+    },
+    {
+      "prompt": "Name a meal we have shared that you would happily repeat exactly as it happened."
+    },
+    {
+      "prompt": "Take a thirty-second quiet taste break, then compare the sound you noticed in each room."
+    },
+    {
+      "prompt": "Choose one food you changed your mind about and explain what caused the change."
+    },
+    {
+      "prompt": "Build an imaginary three-course menu for our next in-person celebration using both of tonight's meals as inspiration."
+    },
+    {
+      "prompt": "Tell the story of a cooking mistake that became funny, useful, or unexpectedly edible."
+    },
+    {
+      "prompt": "Pick one destination where you would like to share a simple local meal together."
+    },
+    {
+      "prompt": "Create a one-sentence advertisement for your current drink without naming it."
+    },
+    {
+      "prompt": "Choose a tiny table tradition we could repeat at future virtual dinners."
+    },
+    {
+      "prompt": "Share one non-food detail that made tonight feel more like a date than an ordinary call."
+    },
+    {
+      "prompt": "Offer a specific toast to something your partner handled well this week."
+    },
+    {
+      "prompt": "Plan the easiest possible menu for the next virtual dinner so neither person has to perform."
+    },
+    {
+      "prompt": "End by naming one moment from this meal you want your partner to remember tomorrow."
+    }
+  ]
+}

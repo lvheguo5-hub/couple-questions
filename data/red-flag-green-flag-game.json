@@ -1,0 +1,99 @@
+{
+  "slug": "red-flag-green-flag-game",
+  "title": "Red or Green Flag",
+  "category": "Playful",
+  "playOnline": "https://freecouplegames.com/games/red-flag-green-flag-game",
+  "count": 30,
+  "prompts": [
+    {
+      "prompt": "They keep checking their phone while you are telling a story."
+    },
+    {
+      "prompt": "They text to make sure you arrived home safely after a date."
+    },
+    {
+      "prompt": "They keep weekend plans vague until the last possible minute."
+    },
+    {
+      "prompt": "They are excited to introduce you to close friends early on."
+    },
+    {
+      "prompt": "They cancel a date at the last minute without offering a reason or a new time."
+    },
+    {
+      "prompt": "They ask before posting a photo of the two of you online."
+    },
+    {
+      "prompt": "They remember a small detail you mentioned weeks ago."
+    },
+    {
+      "prompt": "They expect a reply within a few minutes whenever they message."
+    },
+    {
+      "prompt": "They speak respectfully about former partners even when the relationships ended badly."
+    },
+    {
+      "prompt": "They make you the punchline of a joke in front of friends."
+    },
+    {
+      "prompt": "They regularly make time for friendships that do not include you."
+    },
+    {
+      "prompt": "They apologize after an argument and change the behavior that caused it."
+    },
+    {
+      "prompt": "They want to spend nearly all of their free time together."
+    },
+    {
+      "prompt": "They discuss the budget before suggesting an expensive trip together."
+    },
+    {
+      "prompt": "They ask for your phone password as proof that you trust them."
+    },
+    {
+      "prompt": "They say clearly when they need an evening alone to recharge."
+    },
+    {
+      "prompt": "They rarely ask a follow-up question when you share something important."
+    },
+    {
+      "prompt": "They celebrate your good news without comparing it to their own achievements."
+    },
+    {
+      "prompt": "They talk about moving in together during the first few dates."
+    },
+    {
+      "prompt": "They check in after a disagreement instead of pretending nothing happened."
+    },
+    {
+      "prompt": "They keep teasing you about something after you ask them to stop."
+    },
+    {
+      "prompt": "They are comfortable saying they do not know the answer."
+    },
+    {
+      "prompt": "They decide the whole weekend plan without asking what you want to do."
+    },
+    {
+      "prompt": "They notice you seem overwhelmed and ask whether you want help, listening, or space."
+    },
+    {
+      "prompt": "They flirt with someone else to see whether you get jealous."
+    },
+    {
+      "prompt": "They respect that you enjoy hobbies they do not personally understand."
+    },
+    {
+      "prompt": "They read a message over your shoulder without asking."
+    },
+    {
+      "prompt": "They suggest a date idea and ask what would make it enjoyable for you too."
+    },
+    {
+      "prompt": "They take responsibility for being late instead of blaming traffic every time."
+    },
+    {
+      "prompt": "They bring up old mistakes to keep score during every new disagreement."
+    }
+  ]
+}

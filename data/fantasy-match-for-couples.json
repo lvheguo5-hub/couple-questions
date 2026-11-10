@@ -1,0 +1,135 @@
+{
+  "slug": "fantasy-match-for-couples",
+  "title": "Fantasy Match",
+  "category": "Romantic",
+  "playOnline": "https://freecouplegames.com/games/fantasy-match-for-couples",
+  "count": 18,
+  "prompts": [
+    {
+      "prompt": "Which one-night escape would feel more magical?",
+      "options": [
+        "A glass cabin under a meteor shower",
+        "A lantern boat on a silent lake"
+      ]
+    },
+    {
+      "prompt": "Which secret date would you rather discover?",
+      "options": [
+        "A hidden rooftop dinner above the city",
+        "A candlelit picnic inside an old greenhouse"
+      ]
+    },
+    {
+      "prompt": "Which imaginary home sounds more like us?",
+      "options": [
+        "A compact house beside a wild beach",
+        "A warm apartment above a tiny bakery"
+      ]
+    },
+    {
+      "prompt": "Which slow morning would you choose?",
+      "options": [
+        "Breakfast on a mountain balcony",
+        "Coffee beside a rain-covered window"
+      ]
+    },
+    {
+      "prompt": "Which creative adventure would be more fun?",
+      "options": [
+        "Making a short film in one weekend",
+        "Recording an album of ridiculous love songs"
+      ]
+    },
+    {
+      "prompt": "Which midnight experience calls to you?",
+      "options": [
+        "Swimming in a safely lit rooftop pool",
+        "Walking through an all-night flower market"
+      ]
+    },
+    {
+      "prompt": "Which year-long experiment would you try?",
+      "options": [
+        "A monthly date chosen by alternating surprise",
+        "A monthly skill learned side by side"
+      ]
+    },
+    {
+      "prompt": "Which traveling fantasy feels richer?",
+      "options": [
+        "Following one river through several towns",
+        "Following one food tradition across a region"
+      ]
+    },
+    {
+      "prompt": "Which celebration would you remember longer?",
+      "options": [
+        "A private feast cooked by close friends",
+        "A two-person trip with no announced itinerary"
+      ]
+    },
+    {
+      "prompt": "Which shared workspace would inspire us?",
+      "options": [
+        "A sunlit studio full of plants and tools",
+        "A quiet library room with a fireplace"
+      ]
+    },
+    {
+      "prompt": "Which gentle luxury would you choose for a month?",
+      "options": [
+        "Fresh breakfast delivered every morning",
+        "A nightly hour with every device turned off"
+      ]
+    },
+    {
+      "prompt": "Which unexpected invitation would excite you?",
+      "options": [
+        "Join a village festival as honorary helpers",
+        "Sleep overnight inside a museum exhibition"
+      ]
+    },
+    {
+      "prompt": "Which outdoor refuge would you keep secret?",
+      "options": [
+        "A meadow reached only by a small footbridge",
+        "A sheltered cove reached by a winding stair"
+      ]
+    },
+    {
+      "prompt": "Which future tradition feels more romantic?",
+      "options": [
+        "Revisiting one meaningful place every five years",
+        "Choosing a completely new place for every milestone"
+      ]
+    },
+    {
+      "prompt": "Which make-believe evening would you enter?",
+      "options": [
+        "A masked dance in a floating palace",
+        "A midnight feast in an enchanted orchard"
+      ]
+    },
+    {
+      "prompt": "Which act of shared courage would feel rewarding?",
+      "options": [
+        "Performing a duet for a friendly crowd",
+        "Taking a beginner climbing lesson together"
+      ]
+    },
+    {
+      "prompt": "Which kind of freedom would you borrow for a season?",
+      "options": [
+        "Living with everything we need in one small van",
+        "Living within walking distance of every daily need"
+      ]
+    },
+    {
+      "prompt": "Which ending would complete an ideal date?",
+      "options": [
+        "Dancing alone after everyone else has left",
+        "Talking until sunrise over a shared dessert"
+      ]
+    }
+  ]
+}

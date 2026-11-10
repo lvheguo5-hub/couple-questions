@@ -1,0 +1,99 @@
+{
+  "slug": "charades-for-couples",
+  "title": "Couples Charades",
+  "category": "Party",
+  "playOnline": "https://freecouplegames.com/games/charades-for-couples",
+  "count": 30,
+  "prompts": [
+    {
+      "prompt": "Kitchen round: pass the device to the actor, then let the guesser look away before reveal."
+    },
+    {
+      "prompt": "Morning round: hand over the screen privately before the action appears."
+    },
+    {
+      "prompt": "Travel round: the actor reveals this card while the guesser faces the other direction."
+    },
+    {
+      "prompt": "Pet round: swap who holds the device and hide the revealed action from the guesser."
+    },
+    {
+      "prompt": "Weather round: pass, reveal, and return the device face down before acting."
+    },
+    {
+      "prompt": "Date-night round: only the actor may see the action after tapping reveal."
+    },
+    {
+      "prompt": "Music round: give the actor the screen while the guesser closes their eyes."
+    },
+    {
+      "prompt": "Cleaning round: privately reveal the next silent scene to the actor."
+    },
+    {
+      "prompt": "Cooking round: turn the screen away from the guesser before revealing."
+    },
+    {
+      "prompt": "Photo round: the actor checks the card alone, then starts without speaking."
+    },
+    {
+      "prompt": "Fitness round: pass the device across and reveal only when the guesser cannot peek."
+    },
+    {
+      "prompt": "Movie round: hide the screen, reveal the scene, and begin the silent performance."
+    },
+    {
+      "prompt": "Shopping round: let the new actor privately open the action card."
+    },
+    {
+      "prompt": "Beach round: the guesser turns around while the actor reveals the movement."
+    },
+    {
+      "prompt": "Technology round: transfer the device before showing the secret action."
+    },
+    {
+      "prompt": "Celebration round: reveal privately, lock the screen, and act the scene."
+    },
+    {
+      "prompt": "Restaurant round: the actor reads the reveal while their partner looks away."
+    },
+    {
+      "prompt": "Garden round: pass the screen to the actor for the next hidden scene."
+    },
+    {
+      "prompt": "Dance round: keep the answer private after the actor taps reveal."
+    },
+    {
+      "prompt": "Home-repair round: the guesser covers their eyes during the reveal."
+    },
+    {
+      "prompt": "Winter round: hand the actor the device and turn away before the action appears."
+    },
+    {
+      "prompt": "Coffee round: only the performer sees the reveal before starting."
+    },
+    {
+      "prompt": "Laundry round: pass the card privately and hide it once the action is known."
+    },
+    {
+      "prompt": "Camping round: the actor reveals the prompt behind the guesser's back."
+    },
+    {
+      "prompt": "Game-night round: switch roles, pass the device, and reveal in secret."
+    },
+    {
+      "prompt": "Rainy-day round: shield the screen while the performer reads the action."
+    },
+    {
+      "prompt": "Phone-call round: the actor alone checks the reveal, then puts the device down."
+    },
+    {
+      "prompt": "Bakery round: give the screen to the performer before exposing the hidden action."
+    },
+    {
+      "prompt": "Museum round: the guesser looks away as the actor unlocks the scene."
+    },
+    {
+      "prompt": "Finale round: pass and reveal the last action without giving the guesser a glimpse."
+    }
+  ]
+}

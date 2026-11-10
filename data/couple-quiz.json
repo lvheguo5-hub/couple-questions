@@ -1,0 +1,45 @@
+{
+  "slug": "couple-quiz",
+  "title": "Couple Quiz",
+  "category": "Conversation",
+  "playOnline": "https://freecouplegames.com/games/couple-quiz",
+  "count": 12,
+  "prompts": [
+    {
+      "prompt": "What is my ideal way to spend a completely unscheduled morning?"
+    },
+    {
+      "prompt": "Which kind of support do I want first on a stressful day?"
+    },
+    {
+      "prompt": "What snack would I pick for a late-night movie?"
+    },
+    {
+      "prompt": "Which trip from our past would I repeat tomorrow?"
+    },
+    {
+      "prompt": "What quality in myself am I quietly proud of?"
+    },
+    {
+      "prompt": "What small purchase makes me happier than it should?"
+    },
+    {
+      "prompt": "Which household task do I dislike most?"
+    },
+    {
+      "prompt": "What is one skill I would love to learn this year?"
+    },
+    {
+      "prompt": "When do I feel most confident?"
+    },
+    {
+      "prompt": "What is my favorite kind of compliment to receive?"
+    },
+    {
+      "prompt": "Which tradition would I want us to start?"
+    },
+    {
+      "prompt": "What does a perfect ordinary evening together look like to me?"
+    }
+  ]
+}

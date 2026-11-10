@@ -1,0 +1,63 @@
+{
+  "slug": "sync-watch-party",
+  "title": "Sync Watch Party",
+  "category": "Long Distance",
+  "playOnline": "https://freecouplegames.com/games/sync-watch-party",
+  "count": 18,
+  "prompts": [
+    {
+      "prompt": "Before pressing play, predict which character or performer your partner will enjoy most and explain why."
+    },
+    {
+      "prompt": "Choose one snack that matches tonight's program and give it a dramatic menu name."
+    },
+    {
+      "prompt": "Describe the kind of ending you hope for without guessing a specific plot event."
+    },
+    {
+      "prompt": "Name one setting from a past movie or show where you would gladly spend a weekend together."
+    },
+    {
+      "prompt": "At the first agreed break, compare the tiny background detail each of you noticed."
+    },
+    {
+      "prompt": "Choose one character decision so far and explain what you would have done differently."
+    },
+    {
+      "prompt": "Invent a harmless alternate title based only on the first fifteen minutes."
+    },
+    {
+      "prompt": "Share which scene would be hardest to explain to someone who had not watched the beginning."
+    },
+    {
+      "prompt": "Pick one costume, room, vehicle, or object from the screen that deserves its own story."
+    },
+    {
+      "prompt": "Make one prediction for the next act and decide when you will check whether it came true."
+    },
+    {
+      "prompt": "After a funny moment, rate how likely it is to become an inside joke between you."
+    },
+    {
+      "prompt": "Choose the line delivery or visual moment that has created the strongest mood so far."
+    },
+    {
+      "prompt": "Imagine adding yourselves as background characters and describe what each of you would be doing."
+    },
+    {
+      "prompt": "Name one part of the soundtrack or sound design that changed how a scene felt."
+    },
+    {
+      "prompt": "After the ending, share the moment that surprised you most without debating whose answer is better."
+    },
+    {
+      "prompt": "Choose one unanswered question you would ask the writer or director."
+    },
+    {
+      "prompt": "Decide whether this program fits a rewatch, a recommendation, or a one-time experience and give one reason."
+    },
+    {
+      "prompt": "Plan the next remote watch by choosing a completely different mood from tonight's program."
+    }
+  ]
+}

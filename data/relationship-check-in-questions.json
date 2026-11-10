@@ -1,0 +1,49 @@
+{
+  "slug": "relationship-check-in-questions",
+  "title": "Relationship Check In Questions",
+  "category": "Deep Talk",
+  "playOnline": "https://freecouplegames.com/games/relationship-check-in-questions",
+  "count": 10,
+  "prompts": [
+    {
+      "prompt": "Did I feel noticed and appreciated by you this week?",
+      "section": "Appreciation"
+    },
+    {
+      "prompt": "Did we express gratitude for the ordinary things we did for each other?",
+      "section": "Appreciation"
+    },
+    {
+      "prompt": "Did outside stress feel manageable between us this week?",
+      "section": "Stress"
+    },
+    {
+      "prompt": "Did we have enough space to say when we felt overloaded?",
+      "section": "Stress"
+    },
+    {
+      "prompt": "Did we have at least one moment of undistracted connection this week?",
+      "section": "Connection"
+    },
+    {
+      "prompt": "Did affection and closeness feel comfortable and mutual this week?",
+      "section": "Connection"
+    },
+    {
+      "prompt": "Did I receive the kind of support I needed this week?",
+      "section": "Support"
+    },
+    {
+      "prompt": "Did we share responsibilities in a way that felt fair enough this week?",
+      "section": "Support"
+    },
+    {
+      "prompt": "Do I feel clear about the one thing we want to prioritize together next week?",
+      "section": "Next Week"
+    },
+    {
+      "prompt": "Does our plan for next week leave room for rest and connection?",
+      "section": "Next Week"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "slug": "this-or-that-questions-for-couples",
+  "title": "This or That",
+  "category": "Conversation",
+  "playOnline": "https://freecouplegames.com/games/this-or-that-questions-for-couples",
+  "count": 24,
+  "prompts": [
+    {
+      "prompt": "Pick your ideal breakfast together",
+      "options": [
+        "Early breakfast",
+        "Late brunch"
+      ]
+    },
+    {
+      "prompt": "Choose tonight's easy plan",
+      "options": [
+        "Cozy movie",
+        "Evening walk"
+      ]
+    },
+    {
+      "prompt": "Choose the shared snack",
+      "options": [
+        "Something sweet",
+        "Something salty"
+      ]
+    },
+    {
+      "prompt": "Pick the better outdoor view",
+      "options": [
+        "Beach morning",
+        "Mountain afternoon"
+      ]
+    },
+    {
+      "prompt": "Choose your planning style",
+      "options": [
+        "Plan it early",
+        "Decide spontaneously"
+      ]
+    },
+    {
+      "prompt": "Pick the sweeter keepsake",
+      "options": [
+        "Photos together",
+        "Saved voice notes"
+      ]
+    },
+    {
+      "prompt": "Choose dinner tonight",
+      "options": [
+        "Cook together",
+        "Favorite takeout"
+      ]
+    },
+    {
+      "prompt": "Pick your travel seat",
+      "options": [
+        "Window seat",
+        "Aisle seat"
+      ]
+    },
+    {
+      "prompt": "Choose the sky you would watch",
+      "options": [
+        "Sunrise",
+        "Sunset"
+      ]
+    },
+    {
+      "prompt": "Pick a quiet game night",
+      "options": [
+        "Board game",
+        "Jigsaw puzzle"
+      ]
+    },
+    {
+      "prompt": "Choose the weekend setting",
+      "options": [
+        "City break",
+        "Quiet countryside"
+      ]
+    },
+    {
+      "prompt": "Pick the background sound",
+      "options": [
+        "Music while cooking",
+        "Podcast while cleaning"
+      ]
+    },
+    {
+      "prompt": "Choose the meaningful gift",
+      "options": [
+        "Something handmade",
+        "A planned experience"
+      ]
+    },
+    {
+      "prompt": "Pick your free Sunday",
+      "options": [
+        "Slow day at home",
+        "Full adventure day"
+      ]
+    },
+    {
+      "prompt": "Choose the daily check-in",
+      "options": [
+        "Good-morning text",
+        "Good-night call"
+      ]
+    },
+    {
+      "prompt": "Pick the dessert rule",
+      "options": [
+        "Share one dessert",
+        "Order two favorites"
+      ]
+    },
+    {
+      "prompt": "Choose what to watch",
+      "options": [
+        "Rewatch a favorite",
+        "Try a new show"
+      ]
+    },
+    {
+      "prompt": "Pick the simple dinner setting",
+      "options": [
+        "Indoor picnic",
+        "Balcony dinner"
+      ]
+    },
+    {
+      "prompt": "Choose the spontaneous performance",
+      "options": [
+        "Dance in the kitchen",
+        "Sing in the car"
+      ]
+    },
+    {
+      "prompt": "Pick the shared story format",
+      "options": [
+        "Paper book",
+        "Audiobook"
+      ]
+    },
+    {
+      "prompt": "Choose a couple style",
+      "options": [
+        "Matching details",
+        "Completely different looks"
+      ]
+    },
+    {
+      "prompt": "Pick the next date method",
+      "options": [
+        "One-person surprise",
+        "Choose it together"
+      ]
+    },
+    {
+      "prompt": "Choose an anniversary mood",
+      "options": [
+        "Big celebration",
+        "Small private ritual"
+      ]
+    },
+    {
+      "prompt": "Pick the memory project",
+      "options": [
+        "Make a playlist",
+        "Make a photo album"
+      ]
+    }
+  ]
+}

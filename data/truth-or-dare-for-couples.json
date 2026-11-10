@@ -1,0 +1,73 @@
+{
+  "slug": "truth-or-dare-for-couples",
+  "title": "Truth or Dare",
+  "category": "Playful",
+  "playOnline": "https://freecouplegames.com/games/truth-or-dare-for-couples",
+  "count": 16,
+  "prompts": [
+    {
+      "prompt": "What tiny thing I do makes you feel noticed?",
+      "mode": "truth"
+    },
+    {
+      "prompt": "What was your first completely honest impression of me?",
+      "mode": "truth"
+    },
+    {
+      "prompt": "Which ordinary day together would you happily repeat?",
+      "mode": "truth"
+    },
+    {
+      "prompt": "What is one compliment you remember longer than I realize?",
+      "mode": "truth"
+    },
+    {
+      "prompt": "When do you feel most like we are a team?",
+      "mode": "truth"
+    },
+    {
+      "prompt": "What date idea have you wanted to suggest but never did?",
+      "mode": "truth"
+    },
+    {
+      "prompt": "What habit should we protect even when life gets busy?",
+      "mode": "truth"
+    },
+    {
+      "prompt": "What song feels like it belongs in our story?",
+      "mode": "truth"
+    },
+    {
+      "prompt": "Give your partner a 20-second award speech for something they do well.",
+      "mode": "dare"
+    },
+    {
+      "prompt": "Recreate your partner’s most-used expression until they guess it.",
+      "mode": "dare"
+    },
+    {
+      "prompt": "Plan a five-minute dream date using only things already in the room.",
+      "mode": "dare"
+    },
+    {
+      "prompt": "Choose a song and invite your partner to a one-minute slow dance.",
+      "mode": "dare"
+    },
+    {
+      "prompt": "Describe your first date like a dramatic movie trailer.",
+      "mode": "dare"
+    },
+    {
+      "prompt": "Send your partner a message you would love to receive on a hard day.",
+      "mode": "dare"
+    },
+    {
+      "prompt": "Name three things you appreciate before the timer reaches ten seconds.",
+      "mode": "dare"
+    },
+    {
+      "prompt": "Let your partner choose the next photo you take together.",
+      "mode": "dare"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "would-you-rather-for-couples",
+  "title": "Would You Rather",
+  "category": "Conversation",
+  "playOnline": "https://freecouplegames.com/games/would-you-rather-for-couples",
+  "count": 12,
+  "prompts": [
+    {
+      "prompt": "Which kind of surprise date would you choose?",
+      "options": [
+        "A sunrise picnic",
+        "A midnight city walk"
+      ]
+    },
+    {
+      "prompt": "Which shared adventure sounds better?",
+      "options": [
+        "Learn to surf together",
+        "Take a cooking class abroad"
+      ]
+    },
+    {
+      "prompt": "Which memory button would you press?",
+      "options": [
+        "Relive our funniest day",
+        "See one future anniversary"
+      ]
+    },
+    {
+      "prompt": "How would you spend a completely free weekend?",
+      "options": [
+        "Stay offline in a cabin",
+        "Explore a new neighborhood"
+      ]
+    },
+    {
+      "prompt": "Which couple superpower would you want?",
+      "options": [
+        "Always know when the other needs a hug",
+        "Share the same dreams"
+      ]
+    },
+    {
+      "prompt": "Which everyday luxury wins?",
+      "options": [
+        "Breakfast made for you",
+        "A nightly shoulder massage"
+      ]
+    },
+    {
+      "prompt": "Which challenge would bring us closer?",
+      "options": [
+        "No phones after 8 p.m. for a week",
+        "Cook every meal together for a week"
+      ]
+    },
+    {
+      "prompt": "Which home would you choose for one year?",
+      "options": [
+        "A tiny apartment in a favorite city",
+        "A quiet house near the sea"
+      ]
+    },
+    {
+      "prompt": "Which story would you rather hear?",
+      "options": [
+        "My favorite childhood memory",
+        "My secret dream for our future"
+      ]
+    },
+    {
+      "prompt": "Which date-night rule sounds more fun?",
+      "options": [
+        "One person plans everything",
+        "Every choice is decided by a coin flip"
+      ]
+    },
+    {
+      "prompt": "Which shared skill would you instantly master?",
+      "options": [
+        "Dancing together",
+        "Speaking a new language together"
+      ]
+    },
+    {
+      "prompt": "Which kind of gift means more?",
+      "options": [
+        "Something handmade",
+        "A surprise experience"
+      ]
+    }
+  ]
+}

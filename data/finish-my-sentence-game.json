@@ -1,0 +1,39 @@
+{
+  "slug": "finish-my-sentence-game",
+  "title": "Finish My Sentence Game",
+  "category": "Conversation",
+  "playOnline": "https://freecouplegames.com/games/finish-my-sentence-game",
+  "count": 10,
+  "prompts": [
+    {
+      "prompt": "Our perfect slow morning starts with..."
+    },
+    {
+      "prompt": "The song that feels most like us is..."
+    },
+    {
+      "prompt": "The snack we always reach for is..."
+    },
+    {
+      "prompt": "A tiny thing that makes an ordinary day better is..."
+    },
+    {
+      "prompt": "If we had a completely free afternoon, we would..."
+    },
+    {
+      "prompt": "The story from our time together we retell most is..."
+    },
+    {
+      "prompt": "The meal that feels like comfort for us is..."
+    },
+    {
+      "prompt": "The place we would happily visit again is..."
+    },
+    {
+      "prompt": "When one of us has a hard day, the most helpful response is..."
+    },
+    {
+      "prompt": "One small plan we would both enjoy this month is..."
+    }
+  ]
+}
