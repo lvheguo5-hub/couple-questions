@@ -75,7 +75,7 @@ const pick = set.prompts[Math.floor(Math.random() * set.prompts.length)];
 console.log(pick.prompt);
 ```
 
-The prompts are written to work for new couples and long-term partners. They avoid scoring a relationship, and anything that pushes one person to answer. If you build with them, keep a way to skip.
+The prompts are written to work for new couples and long-term partners. On the site, either person can skip any card. If you build with these prompts, keep a way to skip.
 
 ## License
 
